@@ -14,7 +14,7 @@
 
 ## Downloading
 ```bash
-$ git clone https://github.com/mayankamencherla/github-issue-agg.git
+$ git clone https://github.com/mayankamencherla/unibuddy.git
 ```
 
 ## Setup Locally
@@ -35,6 +35,6 @@ $ npm start
 
 1. Head over to <a href="http://localhost:3000/public" target="_blank">localhost:3000/public</a> on your browser
 
-1. To use this app on heroku, please head over to <a href="https://shielded-bastion-41517.herokuapp.com/public" target="_blank">heroku</a>
+1. You can add the name of the tag to retrieve its titles
 
-1. You can add the github URL and the app will magically retrieve its issue statistics for you!
+1. You can also hit the <a href="http://localhost:3000/active">active</a> endpoint for a simulation on the active conversations flow
